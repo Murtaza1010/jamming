@@ -1,7 +1,7 @@
 
 
 let clientId = '1708aa38b7024686b57ad73335cee35d';
-let redirectUri = 'https://create-spotify-playlist.netlify.app/';
+let redirectUri = 'http://localhost:3000/';
 let accessToken;
 
 
